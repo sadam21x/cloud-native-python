@@ -1,0 +1,1 @@
+curl -i -H "Content-Type: application/json" -X POST -d '{"username":"anandanarayana","body": "Punten kang" }' http://localhost:5000/api/v2/tweets

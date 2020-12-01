@@ -1,0 +1,1 @@
+curl -i -H "Content-Type: application/json" -X delete -d '{"username":"testuser99" }' http://localhost:5000/api/v1/users

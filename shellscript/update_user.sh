@@ -1,0 +1,1 @@
+curl -i -H "Content-Type: application/json" -X put -d '{"username":"joebiden99" }' http://localhost:5000/api/v1/users/1
